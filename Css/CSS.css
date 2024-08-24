@@ -1,0 +1,160 @@
+.titulo {
+    background:#000;
+    color:rgb(255, 255, 255);
+    padding:10px;
+    border:10px dashed #363434;
+    text-decoration:line-through;
+    border-radius:40px;
+    text-align:center;
+}
+
+div .imagen1 {
+    border-radius:40px;
+    position:absolute;
+    top:10px;
+    left:50px;
+    display:block;
+    height:150px;
+    width:300px;
+}
+
+div .imagen2 {
+    position:absolute;
+    top:770px;
+    left:30px;
+}
+
+div .imagen3 {
+    clip-path: inset(30% 20% 20% 20%);
+    position:absolute;
+    top:700px;
+    left:300px;
+    height:800px;
+}
+
+div .imagen4 {
+    clip-path: inset(39% 20% 34% 20%);
+    border-radius:50px;
+    position:absolute;
+    bottom:310px;
+    right:5px;
+    display:block;
+    height:490px;
+    width:450px;
+    float:right;
+}
+
+div .imagen5 {
+    clip-path: inset(15% 10% 10% 10%);
+    width:430px;
+    position:absolute;
+    left:5px;
+    top:1140px;
+}
+
+div .imagen6 {
+    clip-path: inset(30% 10% 10% 10%);
+    width:500px;
+    position:absolute;
+    top:550px;
+    right:110px;
+}
+
+div .imagen7 {
+    clip-path: inset(30% 10% 3% 15%);
+    position:absolute;
+    top:670px;
+    left:270px;
+    height:300px;
+}
+
+div .imagen8 {
+    clip-path: inset(30% 20% 2% 10%);
+    position:absolute;
+    top:550px;
+    left:1020px;
+    height:700px;
+}
+
+div .imagen9 {
+    clip-path: inset(30% 20% 2% 10%);
+    position:absolute;
+    top:1150px;
+    left:20px;
+    height:700px;
+}
+
+div .imagen10 {
+    clip-path: inset(30% 20% 2% 10%);
+    position:absolute;
+    top:1100px;
+    left:1020px;
+    height:700px;
+}
+
+div .imagen11 {
+    clip-path: inset(30% 20% 2% 10%);
+    position:absolute;
+    top:1150px;
+    left:330px;
+    height:700px;
+}
+
+div .imagen12 {
+    position:absolute;
+    top:1150px;
+    left:750px;
+    height:300px;
+}
+
+div .imagen13 {
+    position:absolute;
+    top:1500px;
+    left:750px;
+    height:300px;
+}
+
+.Texto {
+    color:rgb(145, 142, 142);
+    border:10px dashed #363434;
+    font-size:30px;
+    border-radius: 40px;
+    padding:20px;
+}
+
+div .Link{
+    position:absolute;
+    left:900px;
+    bottom:100px;
+}
+
+body {
+    background:#35035e;
+    color:rgb(145, 142, 142);
+    font-weight:bold;
+    font-size:20px;
+
+}
+
+a {
+    font-size:30px;
+    color:rgb(145, 142, 142);
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.piepagina {
+    color:rgb(145, 142, 142);
+    border:10px dashed #363434;
+    font-size:30px;
+    border-radius: 40px;
+}
+
+.texto {
+    font-size:20px;
+    font-family:"serif";
+}
+
+.para {
+    font-size:30px;
+}
